@@ -18,6 +18,7 @@ class NumberFormat extends Supervisor
     const FORMAT_PERCENTAGE = '0%';
     const FORMAT_PERCENTAGE_0 = '0.0%';
     const FORMAT_PERCENTAGE_00 = '0.00%';
+    const FORMAT_PERCENTAGE_000 = '0.000%';
 
     /** @deprecated 1.26 use FORMAT_DATE_YYYYMMDD instead */
     const FORMAT_DATE_YYYYMMDD2 = 'yyyy-mm-dd';
